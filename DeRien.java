@@ -1,5 +1,5 @@
 public class DeRien {
-    public static void repondre() {
+    public static void main() {
         System.out.println("De rien !");
     }
 }
